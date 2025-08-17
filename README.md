@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Vijina V Nair 👋
 
-<!--
-**VijinaVNair/VijinaVNair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Final Year B.Tech Student**  
+Computer Engineering | LBS College of Engineering
 
-Here are some ideas to get you started:
+🔧 **Tech Skills:**  
+- Python  
+- HTML  
+- DBMS  
+- Voice Assistant Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 **Achievements & Certifications:**  
+- NPTEL Certificate: Database Management Systems  
+- IBM: Getting Started with AI  
+- 5-Day Bootcamp: Built a Netflix Clone  
+- Best Coordinator at Terranis 2k25
+
+📂 **Projects:**  
+- Voice Assistant  
+- Netflix Clone (Bootcamp Project)
+
+🎸 **Hobbies:**  
+- Playing ukulele
+
+🔗 **Connect with me:**  
+[LinkedIn](https://www.linkedin.com/in/vijina-v-nair-b5245a31b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+*Always learning, building, and exploring new tech!*
